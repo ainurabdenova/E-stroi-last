@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-stroi-last/static/css/main.5b2fce07.css",
+    "main.js": "/E-stroi-last/static/js/main.d0328d26.js",
+    "index.html": "/E-stroi-last/index.html",
+    "static/media/left-arrow.svg": "/E-stroi-last/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/E-stroi-last/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "static/media/no-content.svg": "/E-stroi-last/static/media/no-content.ffcf5a4649139602bcfa9d6b699849fe.svg",
+    "main.5b2fce07.css.map": "/E-stroi-last/static/css/main.5b2fce07.css.map",
+    "main.d0328d26.js.map": "/E-stroi-last/static/js/main.d0328d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b2fce07.css",
+    "static/js/main.d0328d26.js"
+  ]
+}
