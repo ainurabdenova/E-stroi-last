@@ -89,15 +89,15 @@ export const CatalogPage = () => {
 
                 <Breadcrumbs links={links} />
             </div >
-            <div style={{ display: 'flex' }}>
-                <div style={{ marginLeft: '168px' }}>
+            <div style={{ display: 'flex', margin: 'auto', gap: '20px', maxWidth: '1200px' }}>
+                <div style={{ flexShrink: '0' }}>
                     <MenuList categories={data?.childCategories} />
                 </div>
 
-                <div style={{ marginLeft: '50px' }}>
+                <div style={{ flexGrow: '1' }}>
                     <CatalogGrid categories={val ? data?.childCategories : product?.content} />
                 </div>
             </div>
-        </div>
+        </div >
     )
 }

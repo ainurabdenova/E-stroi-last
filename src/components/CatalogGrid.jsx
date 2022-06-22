@@ -6,8 +6,9 @@ import { NotFoundPage } from "./NotFoundPage";
 
 const Grid = styled.div`
   display: grid;
-  grid-template-columns: repeat(3, 300px);
+  grid-template-columns: repeat(3, 1fr);
   gap: 15px;
+  width: 100%;
 `
 
 export function CatalogGrid({ categories }) {

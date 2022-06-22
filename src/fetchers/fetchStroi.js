@@ -6,6 +6,8 @@ export function fetchStroi() {
         .then((res) => {
             return res.data
         });
+
+
 }
 
 export function fetchProducts(id) {

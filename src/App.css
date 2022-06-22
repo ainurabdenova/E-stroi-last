@@ -3,7 +3,7 @@
 }
 
 .container-slider {
-    width: 1140px;
+    max-width: 1200px;
     height: 400px;
     margin: 20px 0px;
     position: relative;
